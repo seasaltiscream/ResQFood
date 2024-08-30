@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project aims to develop a user friendly application that 
+can effectively prevent food waste, especially in Indonesia. 
+By utilizing the Flutter framework, and integrating it deeply 
+easy to access and use application, this project hopes to be 
+provides practical solutions that are useful for reducing food waste levels
+in Indonesia. This project is not only relevant from a technical point of view, but also has 
+significant social impact in promoting awareness of 
+environment
